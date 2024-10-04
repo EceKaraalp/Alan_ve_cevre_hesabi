@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\bin\Debug\NYP_Odev2.exe.config
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\bin\Debug\NYP_Odev2.exe
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\bin\Debug\NYP_Odev2.pdb
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.Form1.resources
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.Properties.Resources.resources
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.exe
+C:\Users\user\source\repos\NYP_Odev2\NYP_Odev2\obj\Debug\NYP_Odev2.pdb
